@@ -1,7 +1,12 @@
 [package]
 name = "tweet2media"
+description = "Library to get media URLs from tweet URLs"
+repository = "https://github.com/ericswpark/tweet2media-rs"
 version = "0.1.0"
 edition = "2024"
+readme = "README.md"
+license = "GPL-2.0-only"
+keywords = ["tweet", "media", "twitter"]
 
 [lib]
 name = "tweet2media"
