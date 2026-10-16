@@ -17,6 +17,10 @@ on the tin.
 This library will break as soon as Twitter changes their API. This library will
 break on the full moon. No update guarantees.
 
+This library has been tested up to 2026-10-16 and is current with
+`gallery-dl`'s changes to their Twitter extractor up to 2026-10-13
+(commit `30d2e545da`).
+
 ## License
 
 Note: most of this library is based on the gallery-dl extractor for Twitter.
